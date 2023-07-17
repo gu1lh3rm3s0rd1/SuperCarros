@@ -13,3 +13,12 @@ CarZone é um emocionante projeto desenvolvido em JavaScript e HTML que oferece 
 1. Faça o download dos arquivos do projeto ou clone o repositório.
 2. Abra o arquivo "index.html" em seu navegador da web.
 3. A lista de carros será exibida e você pode clicar em um carro para ver mais detalhes.
+
+## Contribuição
+Contribuições são bem-vindas! Se você deseja melhorar ou adicionar novos recursos ao projeto CarZone, sinta-se à vontade para fazer um fork do repositório e enviar um pull request.
+
+## Autor
+Guilherme Benjamin Sordi - https://github.com/gu1lh3rm3s0rd1.
+
+## Licença
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter mais detalhes.

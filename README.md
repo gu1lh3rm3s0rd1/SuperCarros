@@ -12,6 +12,7 @@ CarZone é um emocionante projeto desenvolvido em JavaScript e HTML que oferece 
 ![Texto Alternativo da Imagem](/img/print2.PNG)
 
 ## Link do Projeto
+
 [Confira o Projeto](https://carzonedemo.netlify.app/)
 
 ## Como Usar
@@ -26,7 +27,7 @@ Contribuições são bem-vindas! Se você deseja melhorar ou adicionar novos rec
 
 ## Autor
 
-Guilherme Benjamin Sordi - https://github.com/gu1lh3rm3s0rd1.
+Guilherme Benjamin Sordi - [https://github.com/gu1lh3rm3s0rd1/](https://github.com/gu1lh3rm3s0rd1).
 
 ## Licença
 
